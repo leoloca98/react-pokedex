@@ -1,0 +1,24 @@
+/*# UTILITIES */
+.text-white {
+    color: white;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.title-ff {
+    font-family: "Bebas Neue", cursive;
+}
+
+.pb-6 {
+    padding-bottom: 50px;
+}
+
+.my-10 {
+    margin-bottom: 400px;
+}

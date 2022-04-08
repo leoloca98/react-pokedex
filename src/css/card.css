@@ -1,0 +1,32 @@
+#card {
+    width: 250px;
+    margin-bottom: 50px;
+}
+#card .card {
+    border-radius: 5%;
+}
+#card img {
+    border-radius: 5% 5% 0 0;
+    height: 250px;
+    width: 250px;
+}
+
+#card:hover {
+    transform: translateY(-20px);
+    transition: 0.5s;
+}
+#card img {
+    padding: 15px;
+    background-color: bisque;
+}
+
+#card .card-body {
+    height: 152px;
+}
+
+#card .card-text {
+    text-transform: capitalize;
+}
+
+/*! Creare Classi con lo stesso nome del Type, successimavente usare il Type per scegliere la classe (capire come si fa in react), cosicchè si ha la pill del colore del type. Più bello alla vista */
+/** Può essere che un pokemon abbia due tipi diversi? Se si allora ciclare sull'array types e fare la cosa descritta qui sopra con i risulati */

@@ -1,0 +1,9 @@
+#filter {
+    height: 250px;
+    width: auto;
+    background-color: goldenrod;
+}
+
+#search-button {
+    height: 38px;
+}
